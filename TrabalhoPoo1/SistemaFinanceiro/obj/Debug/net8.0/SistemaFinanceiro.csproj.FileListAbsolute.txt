@@ -1,0 +1,14 @@
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.exe
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.deps.json
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.runtimeconfig.json
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.dll
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.pdb
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.AssemblyInfoInputs.cache
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.AssemblyInfo.cs
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.dll
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\refint\SistemaFinanceiro.dll
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.pdb
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.genruntimeconfig.cache
+C:\Users\aula\source\repos\TrabalhoPoo1\SistemaFinanceiro\obj\Debug\net8.0\ref\SistemaFinanceiro.dll
